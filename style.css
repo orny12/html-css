@@ -1,0 +1,38 @@
+h1{
+    color: #008b8b;
+    background-color: #fff0f5;
+    width: 200px;
+    height: 58x;
+}
+p{
+    font-size: medium;
+    font-weight: 500;
+}
+#good{
+    font-size: 23px;
+    background-color:#ffff7a ;
+    width: 710px;
+}
+.bad{
+    font-size: 23px;
+    background-color:#76ff7a ;
+    width: 1400px;
+}
+#good1{
+    font-size: 23px;
+    background-color: #ffcff1;
+}
+#good2{
+    font-size: 23px;
+    background-color:#ffbf00 ;
+    width: 1400px;
+}
+#good2{
+    font-size: 23px;
+    background-color:#e3f988 ;
+}
+#good3{
+    font-size: 23px;
+    background-color:#f4bbff ;
+    width: 1600px;
+}
